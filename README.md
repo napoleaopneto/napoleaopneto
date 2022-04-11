@@ -16,8 +16,7 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 
 ### ・ TOP/REPOSITORY
 
-| <div align="center"><a href="https://github.com/napoleaopneto/Delphi-POO"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/napoleaopneto/Delphi-POO"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Delphi-POO&theme=buefy" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<a href="https://github.com/napoleaopneto/Delphi-POO"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Delphi-POO&theme=buefy" /></a> 
 
 </div>
 
@@ -33,10 +32,9 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
   <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="40" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"><a/>
   <a href="https://www.w3.org/html/"> <img align="center" alt="Kyuorhan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a/>
   <a href="https://www.w3schools.com/css/"> <img align="center" alt="Kyuorhan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
-<!--   <a href="https://nodejs.org/en/"> <img align="center" alt="Kyuorhan-Nodejs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><a/> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" alt="Kyuorhan-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a/>
-<!--  <a href="https://www.typescriptlang.org/"> <img align="center" alt="Kyuorhan-TypeSript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><a/> -->
-<!--   <a href="https://nuxtjs.org/"> <img align="center" alt="Kyuorhan-Nuxtjs" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg"><a/> -->
-<!--   <img align="center" alt="Kyuorhan-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-<!--   <img align="right" alt="Kyuorhan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+  <a href="https://nodejs.org/en/"> <img align="center" alt="Kyuorhan-Nodejs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><a/>
+  <a href="https://www.mysql.com/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><a/>
+  <a href="https://www.postgresql.org/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><a/>
+  <a href="https://www.postgresql.org/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><a/>
 </div>
