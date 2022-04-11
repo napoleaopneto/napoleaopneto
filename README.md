@@ -14,7 +14,7 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --> 
 </div>     
 
-### ・ Repositorios.
+### ・ Repositórios.
 
 <a href="https://github.com/napoleaopneto/Delphi-POO"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Delphi-POO&theme=buefy" /></a> 
 
@@ -22,7 +22,7 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 
 <br>
 
-### ・ Tecnologias
+### ・ Tecnologias.
 
 ---
 
