@@ -29,8 +29,6 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 ---
 
 <div align="center" style="display: inline_block"> 
-  <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
-  <a href="https://tortoisegit.org/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg"><a/>
   <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="40" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"><a/>
   <a href="https://www.w3.org/html/"> <img align="center" alt="Kyuorhan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a/>
   <a href="https://www.w3schools.com/css/"> <img align="center" alt="Kyuorhan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
@@ -43,4 +41,6 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
   <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_americas_brazil_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624308&adgroup=115749706023&gclid=EAIaIQobChMI-JLKoMGM9wIVTxXUAR3f6w-bEAAYASAAEgLlavD_BwE"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"><a/>
   <a href="https://www.linux.org/pages/download/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><a/>
   <a href="https://www.docker.com/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"><a/>
+  <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
+  <a href="https://tortoisegit.org/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg"><a/>
 </div>
