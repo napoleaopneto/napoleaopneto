@@ -30,6 +30,7 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 
 <div align="center" style="display: inline_block"> 
   <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
+  <a href="https://tortoisegit.org/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg"><a/>
   <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="40" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"><a/>
   <a href="https://www.w3.org/html/"> <img align="center" alt="Kyuorhan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a/>
   <a href="https://www.w3schools.com/css/"> <img align="center" alt="Kyuorhan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
