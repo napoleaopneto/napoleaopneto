@@ -43,4 +43,5 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
   <a href="https://www.docker.com/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"><a/>
   <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
   <a href="https://tortoisegit.org/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg"><a/>
+  <a href="https://firebase.google.com/?hl=pt"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"><a/>
 </div>
