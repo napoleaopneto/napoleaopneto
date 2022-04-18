@@ -24,8 +24,6 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 
 </div>
 
-<br>
-
 ### ・ Tecnologias.
 
 ---
