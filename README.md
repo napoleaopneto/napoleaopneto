@@ -1,3 +1,48 @@
+<style>
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border-radius: 5px;
+  box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+  padding: 30px;
+  margin: 20px;
+  width: 400px;
+  transition: all 0.3s ease-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+.card p {
+  color: #a3a5ae;
+  font-size: 16px;
+}
+
+.image {
+  float: right;
+  max-width: 64px;
+  max-height: 64px;
+}
+
+.blue {
+  border-left: 3px solid #4895ff;
+}
+
+.green {
+  border-left: 3px solid #3bb54a;
+}
+
+.red {
+  border-left: 3px solid #b3404a;
+}
+</style>
+
 ### Olá como vai ? espero que esteja bem !!! 
 
 ## ![Profile views](https://gpvc.arturio.dev/napoleaoneto)
