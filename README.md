@@ -1,9 +1,9 @@
 ### Olá como vai ? espero que esteja bem !!! 
 
-💻 Analista de Sistemas
-🌎 Sinop - MT, Brasil
-🚀 React | React Native | Delphi
-📚 Estudando Arquitetura de Software
+💻 Analista de Sistemas <br>
+🌎 Sinop - MT, Brasil <br>
+🚀 React | React Native | Delphi <br>
+📚 Estudando Arquitetura de Software <br>
 🥋 Praticante de Jiu-Jitsu
 
 Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonado por tecnologia, criação e desenvolvimento.
