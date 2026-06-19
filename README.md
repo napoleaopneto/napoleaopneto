@@ -27,7 +27,7 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 ---
 
 <div align="center" style="display: inline_block"> 
-  <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="40" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"><a/>
+  <a href="https://www.embarcadero.com/products/delphi"><img align="center"alt="Delphi"height="40"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg"></a>
   <a href="https://www.w3.org/html/"> <img align="center" alt="Kyuorhan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a/>
   <a href="https://www.w3schools.com/css/"> <img align="center" alt="Kyuorhan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
   <a href="https://getbootstrap.com/"> <img align="center" alt="Kyuorhan-Mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"><a/>
