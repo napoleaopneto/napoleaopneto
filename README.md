@@ -1,7 +1,5 @@
 ### Olá como vai ? espero que esteja bem !!! 
 
-## ![Profile views]<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,git,github" />
-
 Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonado por tecnologia, criação e desenvolvimento.
 
 - Atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios,
