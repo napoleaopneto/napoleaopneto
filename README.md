@@ -27,21 +27,22 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 ### ・ TOP/REPOSITORIES
 
 <div align="center">
+
 <a href="https://github.com/napoleaopneto/Delphi-POO-Interfaces">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Delphi-POO-Interfaces&theme=buefy"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Delphi-POO-Interfaces&theme=tokyonight"/>
 </a>
 <a href="https://github.com/napoleaopneto/Task-Thread-Delphi">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Task-Thread-Delphi&theme=buefy"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Task-Thread-Delphi&theme=tokyonight"/>
 </a>
 <a href="https://github.com/napoleaopneto/Gerador-de-Relatorios">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Gerador-de-Relatorios&theme=buefy"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Gerador-de-Relatorios&theme=tokyonight"/>
 </a>
 <br>
 <a href="https://github.com/napoleaopneto/SisVendas">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=SisVendas&theme=buefy"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=SisVendas&theme=tokyonight"/>
 </a>
 <a href="https://github.com/napoleaopneto/Sistema-de-Vendas">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Sistema-de-Vendas&theme=buefy"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Sistema-de-Vendas&theme=tokyonight"/>
 </a>
 </div>
 
