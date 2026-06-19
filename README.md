@@ -2,7 +2,9 @@
 
 💻 Analista de Sistemas <br>
 🌎 Sinop - MT, Brasil <br>
-🚀 React | React Native | Delphi <br>
+🚀 React | React Native | Delphi | Delphi-FMX <br>
+🔧 Horse | 🟢 Node.js <br>
+🐘 PostgreSQL | 🐬 MySQL <br>
 📚 Estudando Arquitetura de Software <br>
 🥋 Praticante de Jiu-Jitsu
 
