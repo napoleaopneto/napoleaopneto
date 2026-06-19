@@ -24,7 +24,26 @@ Eu me chamo Napoleão, também conhecido por "Neto", sou completamente apaixonad
 
 ### ・ TOP/REPOSITORY
 
-<div align="center" style="display: inline_block"> <a href="https://github.com/napoleaopneto/Delphi-Poo-Interfaces"> <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Delphi-POO-Interfaces&theme=buefy"/></a> <a href="https://github.com/napoleaopneto/Task-Thread-Delphi"> <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Task-Thread-Delphi&theme=buefy"/> </a> </div>
+### ・ TOP/REPOSITORIES
+
+<div align="center">
+<a href="https://github.com/napoleaopneto/Delphi-POO-Interfaces">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Delphi-POO-Interfaces&theme=buefy"/>
+</a>
+<a href="https://github.com/napoleaopneto/Task-Thread-Delphi">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Task-Thread-Delphi&theme=buefy"/>
+</a>
+<a href="https://github.com/napoleaopneto/Gerador-de-Relatorios">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Gerador-de-Relatorios&theme=buefy"/>
+</a>
+<br>
+<a href="https://github.com/napoleaopneto/SisVendas">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=SisVendas&theme=buefy"/>
+</a>
+<a href="https://github.com/napoleaopneto/Sistema-de-Vendas">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=napoleaopneto&repo=Sistema-de-Vendas&theme=buefy"/>
+</a>
+</div>
 
 ### ・ Tecnologias.
 
